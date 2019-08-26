@@ -1,0 +1,102 @@
+*{padding:0; margin:0; outline:0;}
+body{ font-size:16px; line-height:18px; font-family:Trebuchet MS;}
+.wrapper{ width:900px; margin:0 auto; background:#fff none repeat scroll 0 0; }
+
+
+.header,.footer{ background: linear-gradient(to right, #f5f4eb, #bce1f7); none repeat scroll 0 0 ; padding:20px; text-align:center; color:#fff; overflow:hidden;}
+.header h3 { font-size: 25px; padding:10px;}
+
+.mainmenu{ margin-top:3px; overflow:hidden;}
+.mainmenu ul{ padding:0; margin:0; list-style:none;}
+.mainmenu ul li{ display:block; float:left}
+.mainmenu ul li a{
+background:#0f5580;  none repeat scroll 0 0 ; 
+color:#fff;
+display:inline-block;
+fony-weight: blod; 
+margin-right:1px; 
+padding:5px 10px;
+text-decoration:none;
+}
+.mainmenu ul li a:hover{ background:#666;}
+
+.content{
+border-bottom:0px solid #c3c3c3; 
+border-top:1px solid #c3c3c3;
+min-height:0px;
+overflow: hidden;
+padding:30px;
+
+}
+.content h2{
+background:linear-gradient(to right, #f5f4eb, #bce1f7); none repeat scroll 0 0; 
+border:1px solid #c9c9c9;
+color:white;
+margin-bottom:20px;
+margin-left: 235px;
+padding:10px;
+text-align:center;
+width:350px;
+}
+msg
+{
+
+}
+td {
+	padding:15px;
+	text-align:justify;
+}
+
+
+
+.login_reg
+{
+width:450px;
+background:linear-gradient(to right, #f5f4eb, #bce1f7); none repeat scroll 0 0;
+border: 1px solid #d2d2d2;
+border-radius: 5px; 
+margin: 0 auto; 
+font-size:16px;
+overflow:hidden;
+padding:20px;
+}
+
+input[type="text"],input[type="email"],input[type="password"]
+{
+
+border:1px solid #d5d5d5; 
+margin-bottom:6px; 
+margin-left:10px; 
+width:285px;
+ padding:5px;
+}
+input[type="submit"],input[type="reset"]{
+background:#0f5580 none repeat scroll 0 0; 
+border:1px solid #626262; 
+border-radius: 3px;
+color:#fff;
+cursor:pointer;
+font-size:15px;
+font-weight:bold;
+padding:3px 5px;
+margin-top:5px;
+margin-left:3px;
+}
+
+input[type="submit"]:hover ,input[type="reset"]:hover{
+background:#333;
+}
+.back{text-align:center;}
+.back{ width:110px; margin-top:20px;}
+
+.userlist{ background:#fff none repeat scroll 0 0; border:1px solid #ddd; color:#3399ff; font-weight:bold; margin:0 auto 8px; overflow:hidden; padding: 4px; 10px; text-align:center; width:350px;
+  }
+table.tbl_one{ margin:0 auto;}
+table.tbl_one tr th { background:#f5f4eb; color:#fff; padding:3px 32px; text-shadow:1px 1px 2px #000;}
+table.tbl_one tr:nth-child(2n+1){ background:#e8e5e5; height:30px;}
+table.tbl_one tr:nth-child(2n){ background:#ddd; height:30px;}
+table.tbl_one tr td a { color:#009bda; text-decoration:none;}
+table.tbl_one tr td a:hover { color:#003972; text-decoration:none;}
+
+.login_msg{ background:#f5f4eb; color:#fff; display:block; line-height:30px; margin:0 auto 10px; text-align:center; width: 357px; overflow:hidden; }
+
